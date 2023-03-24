@@ -1,0 +1,17 @@
+{
+  "name": "@nightwatch/sinon",
+  "version": "0.0.1",
+  "description": "nightwatch plugin bring sinon methods to nightwatch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravi Sawlani",
+  "license": "ISC",
+  "dependencies": {
+    "sinon": "^15.0.2"
+  },
+  "devDependencies": {
+    "nightwatch": "^2.6.19"
+  }
+}
