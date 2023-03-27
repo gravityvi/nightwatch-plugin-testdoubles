@@ -1,8 +1,11 @@
 # Nightwatch Test Doubles Plugin
+[![npm](https://img.shields.io/npm/v/@nightwatch/testdoubles.svg)](https://www.npmjs.com/package/@nightwatch/testdoubles)
+[![tests](https://github.com/nightwatchjs/nightwatch-plugin-testdoubles/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/nightwatchjs/nightwatch-plugin-testdoubles/actions/workflows/build.yml)
+[![Discord][discord-badge]][discord]
 
 <p align=center>
- <img alt="React Logo" src="https://raw.githubusercontent.com/gravityvi/nightwatch-plugin-testdoubles/main/.github/assets/sinonjs-logo.png" width=200 />
-  <img alt="Nightwatch.js Logo" src="https://raw.githubusercontent.com/gravityvi/nightwatch-plugin-testdoubles/main/.github/assets/nightwatch-logo.png" width=200 />
+ <img alt="React Logo" src="https://raw.githubusercontent.com/nightwatchjs/nightwatch-plugin-testdoubles/main/.github/assets/sinonjs-logo.png" width=200 />
+  <img alt="Nightwatch.js Logo" src="https://raw.githubusercontent.com/nightwatchjs/nightwatch-plugin-testdoubles/main/.github/assets/nightwatch-logo.png" width=200 />
 </p>
 
 This plugin extends [Nightwatch.js](https://nightwatchjs.org/) by exposing [Sinon.js](https://sinonjs.org/) test double methods. The plugin allows users to create and work with mocks, spies, and stubs in Nightwatch.js tests.
@@ -115,3 +118,6 @@ We hope these examples help you get started with using @nightwatch/testdoubles i
 
 ## License
 MIT
+
+[discord-badge]: https://img.shields.io/discord/618399631038218240.svg?color=7389D8&labelColor=6A7EC2&logo=discord&logoColor=ffffff&style=flat-square
+[discord]: https://discord.gg/SN8Da2X
