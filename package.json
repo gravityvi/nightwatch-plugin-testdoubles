@@ -1,6 +1,6 @@
 {
   "name": "@nightwatch/testdoubles",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "nightwatch plugin bring sinon methods to nightwatch",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,11 @@
   "peerDependencies": {
     "nightwatch": "2.6.19"
   },
-  "files": ["examples", "nightwatch", "./index.js"],
+  "files": [
+    "examples",
+    "nightwatch",
+    "./index.js"
+  ],
   "devDependencies": {
     "mocha": "^10.2.0",
     "nightwatch": "^2.6.19"
