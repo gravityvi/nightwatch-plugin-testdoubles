@@ -113,3 +113,6 @@ This example creates a mock on the hello method of an object, and then calls the
 For more information on how to use spy, stub, and mock, see the [Sinon.js documentation](https://sinonjs.org/releases/latest/). 
 
 We hope these examples help you get started with using @nightwatch/testdoubles in your Nightwatch tests!
+
+## License
+MIT
