@@ -29,7 +29,7 @@ npm i @nightwatch/testdoubles --save-dev
 
 3) Disable the browser session
 
-We also need to turn off the browser session, since we're only doing API testing. This can be accomplished by setting these properties:
+We also need to turn off the browser session, since we're only doing unit testing. This can be accomplished by setting these properties:
 
 ```json
 {
