@@ -85,7 +85,6 @@ describe('use stubs in nightwatch', function() {
 
 ```
 This example creates a stub on the console.log method and then calls it with the argument 'Hello!'. The assertion checks whether the stub was called once with the expected argument. Finally, the stub is restored to its original state.
-**Note**: creating a mock automatically attaches a Nightwatch.js assertion to it. mock.verify() runs the checks and reports errors if the checks fail.
 
 ### Mocks
 A mock is a function that "mocks" an object, i.e. it creates a fake version of the object with the same interface as the real object. You can set expectations on the mock object, i.e. specify which methods should be called and with what arguments, and the mock will verify that these expectations are met during the test.
