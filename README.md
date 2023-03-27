@@ -111,3 +111,5 @@ describe('use mocks in nightwatch', function() {
 This example creates a mock on the hello method of an object, and then calls the sayHello function. The mock.verify() method checks whether the mock was called at least once. Finally, the mock is restored to its original state.
 
 For more information on how to use spy, stub, and mock, see the [Sinon.js documentation](https://sinonjs.org/releases/latest/). 
+
+We hope these examples help you get started with using @nightwatch/testdoubles in your Nightwatch tests!
