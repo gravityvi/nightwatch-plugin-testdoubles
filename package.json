@@ -4,14 +4,22 @@
   "description": "nightwatch plugin bring sinon methods to nightwatch",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Ravi Sawlani",
-  "license": "ISC",
+  "license": "MIT",
+  "keywords": [
+    "nightwatchjs",
+    "sinonjs"
+  ],
   "dependencies": {
     "sinon": "^15.0.2"
   },
+  "peerDependencies": {
+    "nightwatch": "2.6.19"
+  },
   "devDependencies": {
+    "mocha": "^10.2.0",
     "nightwatch": "^2.6.19"
   }
 }
