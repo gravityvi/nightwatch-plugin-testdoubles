@@ -69,8 +69,6 @@ This example creates a spy on the hello method of an object, and then calls the 
 ### Stubs
 A stub is a function that replaces the original function with a "dummy" implementation. This is useful when you need to control the behavior of a function during a test, for example to simulate an error condition.
 
-Note: creating a mock automatically attaches a Nightwatch.js assertion to it. mock.verify() runs the checks and reports errors if the checks fail.
-
 
 ```js
 describe('use stubs in nightwatch', function() {
