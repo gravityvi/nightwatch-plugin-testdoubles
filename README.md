@@ -1,5 +1,10 @@
 # Nightwatch Test Doubles Plugin
 
+<p align=center>
+ <img alt="React Logo" src="https://raw.githubusercontent.com/gravityvi/nightwatch-plugin-testdoubles/main/.github/assets/sinonjs-logo.png" width=200 />
+  <img alt="Nightwatch.js Logo" src="https://raw.githubusercontent.com/gravityvi/nightwatch-plugin-testdoubles/main/.github/assets/nightwatch-logo.png" width=200 />
+</p>
+
 This plugin extends [Nightwatch.js](https://nightwatchjs.org/) by exposing [Sinon.js](https://sinonjs.org/) test double methods. The plugin allows users to create and work with mocks, spies, and stubs in Nightwatch.js tests.
 
 ## Installation
