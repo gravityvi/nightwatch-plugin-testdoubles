@@ -16,7 +16,7 @@
     "sinon": "^15.0.2"
   },
   "peerDependencies": {
-    "nightwatch": "3.0.0-beta.1"
+    "nightwatch": "3.0.1"
   },
   "files": [
     "examples",
@@ -25,6 +25,6 @@
   ],
   "devDependencies": {
     "mocha": "^10.2.0",
-    "nightwatch": "3.0.0-beta.1"
+    "nightwatch": "3.0.1"
   }
 }
